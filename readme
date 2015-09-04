@@ -1,0 +1,2 @@
+Have tried with 1, 2, 3 and 4 threads and the result doesn't really change that much - im wondering if it's because
+my system is doing other tasks and the calculation itself is done very quickly.
